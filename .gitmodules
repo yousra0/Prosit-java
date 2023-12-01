@@ -1,0 +1,6 @@
+[submodule "prosit10"]
+	path = prosit10
+	url = https://github.com/yousra0/Prosit-java.git
+[submodule "prosit11"]
+	path = prosit11
+	url = https://github.com/yousra0/Prosit-java.git
